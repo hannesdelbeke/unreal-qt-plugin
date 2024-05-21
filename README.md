@@ -1,4 +1,6 @@
 # unreal-qt plugin
+This plugin runs the [unreal-qt](https://github.com/hannesdelbeke/unreal-qt) setup on startup.
+
 
 ### Install instructions
 
