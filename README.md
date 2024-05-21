@@ -19,3 +19,6 @@ This plugin runs the [unreal-qt](https://github.com/hannesdelbeke/unreal-qt) set
   - Enable the `Unreal Qt` plugin
   - Restart Unreal
 </details>
+
+## Other
+- plugget [manifest](https://github.com/plugget/plugget-pkgs/tree/main/unreal/unreal-qt)
