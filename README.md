@@ -6,7 +6,7 @@ This plugin runs the [unreal-qt](https://github.com/hannesdelbeke/unreal-qt) set
 
 <details>
 <summary>0. install dependencies (TODO automate this)</summary>
-  
+Use pip to install the Python dependencies to Unreal site packages.
   - [unreal-qt](https://github.com/hannesdelbeke/unreal-qt)
   - PySide6
 </details>
