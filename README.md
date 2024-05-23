@@ -5,6 +5,14 @@ This plugin runs the [unreal-qt](https://github.com/hannesdelbeke/unreal-qt) set
 ### Install instructions
 
 <details>
+<summary>0. install dependencies (TODO automate this)</summary>
+  
+  - [unreal-qt](https://github.com/hannesdelbeke/unreal-qt)
+  - PySide6
+</details>
+
+
+<details>
 <summary>1. Copy the plugin to unreal's plugin folder</summary>
   
   - [Download](https://github.com/hannesdelbeke/unreal-qt-plugin/archive/refs/heads/main.zip) and Unzip  
