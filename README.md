@@ -1,6 +1,8 @@
+> [!WARNING]
+> Not sure if you can set the order of pugins in unreal, so this might run after another plugin tries to launch qt code
+
 # unreal-qt plugin
 This plugin runs the [unreal-qt](https://github.com/hannesdelbeke/unreal-qt) setup on startup.
-
 
 ### Install instructions
 
